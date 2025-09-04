@@ -5,7 +5,7 @@ st.title("Millonarios FC")
 
 st.header("Conoce al equipo mas grande de colombia.")
 st.write("El famosos ballet azul")
-image = Image.open('MillonariosFC.png')
+image = Image.open('MillonariosFC.jpg')
 
 st.image(image, caption='Escudo')
 
